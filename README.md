@@ -6,7 +6,7 @@ I verified several extensions below.
 - [ ] .xlsx
 - [ ] .md
 
-This code doesn't assurance get images any files.
+This code doesn't guarantee that images can be retrieved for all files.
 
 ## Get images extensions
 - .png
